@@ -1,5 +1,6 @@
 #!/bin/bash
 
+
 #完成数据库的定时备份。
 #备份的路径
 BACKUP=/data/backup/db
