@@ -2,6 +2,7 @@
 # 清除日志脚本
 
 
+
 LOG_DIR=/var/log
 ROOT_ID=0  # $ROOT_UID为0的用户 ，即root用户
 
