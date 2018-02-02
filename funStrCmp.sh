@@ -6,7 +6,6 @@
 #		   2 if $1>$2
 
 
-
 strcmp()
 {
 	if [[ $1 = $2 ]]
@@ -33,7 +32,7 @@ if (( $res==0 ))
 	echo "$1 = $2"
 	else
 		if (( $res==1 ))
-		then 
+		then
 		echo "$1 < $2"
 		else
 		echo "$1 > $2"
