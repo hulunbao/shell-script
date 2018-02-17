@@ -5,7 +5,6 @@
 # 2.use openssl to create users password.
 # 3.User must change his password in his first login.
 
-
 export PATH=/bin:/sbin:/usr/bin:/usr/sbin
 
 # 0. userinput
