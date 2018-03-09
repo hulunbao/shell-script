@@ -1,5 +1,6 @@
 #!/bin/bash
 
+
 #完成数据库的定时备份。
 #备份的路径
 BACKUP=/data/backup/db
@@ -33,4 +34,3 @@ rm -rf $BACKUP/$DATETIME
 #删除10天前的备份文件
 find $BACKUP -mtime +10 -name "*.tar.gz" -exec rm -rf {} \;
 echo "=====备份文件成功==========="
-
