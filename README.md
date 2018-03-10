@@ -1,2 +1,2 @@
 # shell-script
-shell 脚本
+Mysql数据库定时备份shell脚本
