@@ -7,7 +7,6 @@
 
 export PATH=/bin:/sbin:/usr/bin:/usr/sbin
 
-
 # 0. userinput
 usergroup=""					#if your account need secendary group,add here.
 pwmech="openssl"				#"openssl" or "account" is needed.
